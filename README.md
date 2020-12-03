@@ -1,4 +1,4 @@
-# XVFB-AWS-Selenium:   Steps to set up XVFB screen for AWS-Selenium headless test execution. XVFB will help view live tests on local machine using a VNC Server.
+Steps to set up XVFB screen for AWS-Selenium headless test execution. XVFB will help view live tests on local machine using a VNC Server.
 
 
 
