@@ -49,11 +49,16 @@ Instead of ssh qa_user@qa_user@ipAddress
 Open VNC viewer on local machine and connect to: localhost:5901
 Password: P@ssword1
 
-If display is logging into display#2, do netstat -tnlp and kill all related pids
+If display is logging into display#2, 
+do netstat -tnlp and kill all related pids
 And delete log files cd ~/.vnc/
 And delete rm /tmp/.X1-lock
 
-				******
+		
+		
+		
+		
+		
 
 References: https://stackoverflow.com/questions/25657596/how-to-set-up-gui-on-amazon-ec2-ubuntu-server
 
